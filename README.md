@@ -13,7 +13,7 @@ The overall goal of this project is to be able to open up my iPhone 13, and run 
 This is so that while I am out at second hand book stores, I can quickly check for the lowest price available and compare that to a used book price. 
 
 ## Tasks
-- [ ] Setup Barnes & Noble Web Scraping
+- [x] Setup Barnes & Noble Web Scraping
 - [ ] Setup Target Web Scraping
 - [ ] Setup Amazon Web Scraping
 - [ ] Setup general file to check all stores and return cheapest price + store
