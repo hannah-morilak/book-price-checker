@@ -15,7 +15,7 @@ This is so that while I am out at second hand book stores, I can quickly check f
 ## Tasks
 - [x] Setup Barnes & Noble Web Scraping
 - [x] Setup Target Web Scraping
-- [ ] Setup Amazon Web Scraping
+- [x] Setup Amazon Web Scraping
 - [ ] Setup general file to check all stores and return cheapest price + store
 - [ ] Create back-end to recieve HTTP requests and return cheapest price + store
 - [ ] Setup iPhone shortcut to send HTTP request
