@@ -19,3 +19,8 @@ This is so that while I am out at second hand book stores, I can quickly check f
 - [ ] Setup general file to check all stores and return cheapest price + store
 - [ ] Create back-end to recieve HTTP requests and return cheapest price + store
 - [ ] Setup iPhone shortcut to send HTTP request
+
+To be added later on:  
+- [ ] Create TBR list
+- [ ] Create endpoint to add, remove and check TBR
+- [ ] Run program on a schedule and alert me if a price lowers
