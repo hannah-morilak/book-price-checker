@@ -1,7 +1,7 @@
 import re, mechanicalsoup
 
 # Barnes and Noble Search
-def BarnesAndNobleSearch(book_title):
+def search_barnes_and_noble(book_title):
     url='https://www.barnesandnoble.com'
     headers = ({'User-Agent':
                 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36',
